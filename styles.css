@@ -295,6 +295,8 @@ span {
 
 .portfolio {
   background: var(--snd-bf-color);
+  padding-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 .portfolio h2 {
