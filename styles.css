@@ -102,23 +102,23 @@ span {
   color: var(--main-color);
 }
 
-/* .home-img img {
-  width: 25vw;
-  border-radius: 50%;
-  background: #2d2c2c;
-  border: 0.2rem solid var(--main-color);
-  box-shadow: 0 0 1.5rem var(--main-color);
-  animation: floatImage 4s ease-in-out infinite;
-} */
-
 .home-img img {
   width: 25vw;
   border-radius: 50%;
-  /* background: var(--snd-bf-color); */
-  border: 0.2rem solid var(--main-color);
-  box-shadow: 0 0 2.5rem var(--main-color);
+  background: #2d2c2c;
+  /* border: 0.2rem solid var(--main-color); */
+  box-shadow: 0 0 1.5rem var(--main-color);
   animation: floatImage 4s ease-in-out infinite;
 }
+
+/* .home-img img { */
+/* width: 30vw; */
+/* border-radius: 50%; */
+/* background: var(--snd-bf-color); */
+/* border: 0.2rem solid var(--main-color); */
+/* box-shadow: 0 0 2.5rem var(--main-color); */
+/* animation: floatImage 4s ease-in-out infinite; */
+/* } */
 
 @keyframes floatImage {
   0% {
